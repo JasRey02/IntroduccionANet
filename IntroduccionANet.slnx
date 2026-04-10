@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/ClasesEstaticas/">
+    <Project Path="ClasesEstaticas/Clases.csproj" />
+  </Folder>
+  <Project Path="Arreglos/Arreglos.csproj" />
+  <Project Path="Calculadora/Calculadora.csproj" />
+  <Project Path="Ciclos/Ciclos.csproj" />
+  <Project Path="Clases/Clases.csproj" />
+  <Project Path="Condiciones/Condiciones.csproj" />
+  <Project Path="Depuracion/Depuracion.csproj" />
+  <Project Path="Foreach/Foreach.csproj" />
+  <Project Path="HolaMundo/HolaMundo.csproj" />
+  <Project Path="Interfaces/Interfaces.csproj" />
+  <Project Path="Logger/Logger.csproj" />
+  <Project Path="ReadAndWrite/ReadAndWrite.csproj" />
+  <Project Path="Switch/Switch.csproj" />
+</Solution>
