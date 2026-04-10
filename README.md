@@ -1,6 +1,6 @@
 # Mi Curso de Aprendizaje
 
-Curso de Aprendizaje de Introduccion a .NET impartido por el profesor Amin Espinoza.
+Curso de Aprendizaje en Platzi de Introduccion a .NET impartido por el profesor Amin Espinoza.
 En este curso hemos aprendido lo basico de .NET, arreglos, tipos de datos, clases, clases estaticas, interfaces, condiciones, hemos aprendido a realizar archivos json para depurar en VS Code, tambien aprendidos a publicar y generar un ejecutable.
 Puedes revisarlo tiene muy buenos ejemplos que te ayudaran a iniciar en el mundo de .NET.
 
